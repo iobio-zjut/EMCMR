@@ -1,0 +1,3 @@
+/opt/rh/devtoolset-7/root/usr/bin/g++ MC_EMSD33_00303_32_2.cpp CaDensityx.cpp SplineInterp.cpp GeometryTools.cpp readpdb.cpp GetVdwRadius.cpp xray_scattering.cpp Rotbuilder.cpp randomx.cpp -o UseDensityx4 -I/nfs/amino-home/zbiao/LibC/tt/CaDensity -L/nfs/amino-home/zbiao/LibC/tt/CaDensity/fourier -lfourier -O3
+
+
